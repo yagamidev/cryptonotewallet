@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include "CurrencyAdapter.h"
-#include "CryptoNoteWalletConfig.h"
+#include "LipCoinWalletConfig.h"
 #include "LoggerAdapter.h"
 
 namespace WalletGui {
