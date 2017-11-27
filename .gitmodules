@@ -1,0 +1,3 @@
+[submodule "LipCoin"]
+	path = LipCoin
+	url = https://github.com/yagamidev/LipCoin

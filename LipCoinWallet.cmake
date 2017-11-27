@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "LipCoin")
+set(CN_PROJECT_NAME "LipCoinWallet")
 set(CN_CURRENCY_DISPLAY_NAME "LTC")
 set(CN_CURRENCY_TICKER "LTC")
